@@ -1,0 +1,13 @@
+{
+  "description" : "tes_hub",
+  "company" : "aaaaa",
+  "department" : "aaaaa",
+  "metadataBaseFolder" : "${PROJECT_HOME}/metadata",
+  "unitTestsBasePath" : "${PROJECT_HOME}",
+  "dataSetsCsvFolder" : "${PROJECT_HOME}/datasets",
+  "enforcingExecutionInHome" : true,
+  "parentProjectName" : "default",
+  "config" : {
+    "variables" : [ ]
+  }
+}
